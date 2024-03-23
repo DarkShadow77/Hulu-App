@@ -1,6 +1,7 @@
 import styles from "../assets/css/new_movie_card.module.css"
 export default (props) => {
 
+    document.getElementById(styles.new_movie_card)
    
 
     return (
